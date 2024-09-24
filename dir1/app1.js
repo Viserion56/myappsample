@@ -1,0 +1,1 @@
+console.log('this si in dir1');
