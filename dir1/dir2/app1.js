@@ -1,0 +1,1 @@
+console.log('this is in subsirecotry of dir 1 insid edir2');
